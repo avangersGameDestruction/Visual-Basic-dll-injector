@@ -1,0 +1,17 @@
+D:\visual studio 2019 projects\DLL Injector\bin\Debug\DLL Injector.exe.config
+D:\visual studio 2019 projects\DLL Injector\bin\Debug\DLL Injector.exe
+D:\visual studio 2019 projects\DLL Injector\bin\Debug\DLL Injector.pdb
+D:\visual studio 2019 projects\DLL Injector\bin\Debug\DLL Injector.xml
+D:\visual studio 2019 projects\DLL Injector\obj\Debug\DLL_Injector.Form1.resources
+D:\visual studio 2019 projects\DLL Injector\obj\Debug\DLL_Injector.Resources.resources
+D:\visual studio 2019 projects\DLL Injector\obj\Debug\DLL Injector.vbproj.GenerateResource.cache
+D:\visual studio 2019 projects\DLL Injector\obj\Debug\DLL Injector.vbproj.CoreCompileInputs.cache
+D:\visual studio 2019 projects\DLL Injector\obj\Debug\DLL Injector.exe
+D:\visual studio 2019 projects\DLL Injector\obj\Debug\DLL Injector.xml
+D:\visual studio 2019 projects\DLL Injector\obj\Debug\DLL Injector.pdb
+D:\visual studio 2019 projects\DLL Injector\obj\Debug\DLL Injector.vbprojAssemblyReference.cache
+D:\visual studio 2019 projects\DLL Injector\bin\Debug\dll injector.exe.manifest
+D:\visual studio 2019 projects\DLL Injector\bin\Debug\dll injector.application
+D:\visual studio 2019 projects\DLL Injector\obj\Debug\dll injector.TrustInfo.xml
+D:\visual studio 2019 projects\DLL Injector\obj\Debug\dll injector.exe.manifest
+D:\visual studio 2019 projects\DLL Injector\obj\Debug\dll injector.application
